@@ -1,1 +1,1 @@
-#This is my personal portfolio where I have use #HTML,#CSS,#js 
+#This is my personal portfolio where I have use #HTML,#CSS
